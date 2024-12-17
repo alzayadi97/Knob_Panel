@@ -51,3 +51,4 @@ Test audio consistency while switching between brightness levels.
 Debugging:
 Use the monitor to capture logs and verify functionality.
 
+Link to videos: https://youtube.com/shorts/kUZfBaw7eGg   https://youtube.com/shorts/5BYDeOocCew?si=t0-2jY9foKie7xZC
